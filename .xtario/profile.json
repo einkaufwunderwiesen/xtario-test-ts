@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "frameworks": [
+    {
+      "slug": "ai-code-governance",
+      "catalog_version": "0.2.0"
+    }
+  ]
+}
